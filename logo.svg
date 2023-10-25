@@ -1,0 +1,5 @@
+
+        <svg width="300" height="300" xmlns="http://www.w3.org/2000/svg">
+	    <polygon points="150 25 25 275 272 275" style="fill:rgb(12, 130, 49) ; stroke:rgb(12, 130, 49) ; stroke-width: 0.3;" />
+        <text x="150" y="200" font-size="60" text-anchor="middle" fill="rgb(35, 45, 130)">ble</text>
+        </svg>
